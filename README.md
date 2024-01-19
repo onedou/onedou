@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![snake gif](https://github.com/onedou/onedou/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <img src="https://raw.githubusercontent.com/onedou/onedou/bcf124f9d16bdddfd92b315d8d9dc77d37470995/github-user-contribution.svg" />
+</picture?
 
 <!--
 **onedou/onedou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

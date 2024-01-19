@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <picture>
-  <img src="https://raw.githubusercontent.com/onedou/onedou/bcf124f9d16bdddfd92b315d8d9dc77d37470995/github-user-contribution.svg" />
-</picture?
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!--
 **onedou/onedou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
